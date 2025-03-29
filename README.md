@@ -1,1 +1,0 @@
-# health-talk-to-vek
