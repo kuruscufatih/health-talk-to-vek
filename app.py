@@ -3,7 +3,7 @@ import asyncio
 import os
 
 ms_token = os.environ.get(
-    "ms_token", "NMyZ1u0chqSXkDevs7Cdu_fO4nyVXCH_s0wrbHGfx5_j2cobwauU_wAwalAc186ALXIeUa2gA86Txny9U11-oUSoFcihbcS2WeOx6xpm9S3cDdksHIZoNyZ_QRlmj8RhD09_vqdl-GZd3xywLA4pNJwtkQ=="
+    "ms_token", ""
 )  # set your own ms_token, think it might need to have visited a profile
 
 
